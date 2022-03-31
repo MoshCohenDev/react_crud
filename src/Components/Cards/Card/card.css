@@ -1,0 +1,66 @@
+.pic {
+	margin: 20px;
+	width: 10vw;
+	height: auto;
+}
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	width: 90vw;
+	height: 300px;
+	margin-bottom: 30px;
+	text-align: center;
+	font-family: arial;
+	padding: auto;
+	border: 2px solid;
+	border-radius: 30px;
+	display: flex;
+	flex-direction: row;
+	padding: 20px;
+}
+.card:hover {
+	opacity: 0.75;
+	cursor: pointer;
+	background-color: gainsboro;
+}
+.price {
+	color: grey;
+	font-size: 22px;
+}
+.text_container {
+	width: 60vw;
+	text-align: center;
+	margin-top: 20px;
+}
+.btn_update,
+.btn_delete {
+	border: none;
+	width: 200px;
+	margin-bottom: 10px;
+	border-radius: 30px;
+	outline: 0;
+	padding: 12px;
+	color: white;
+	background-color: #000;
+	text-align: center;
+	font-weight: bold;
+	cursor: pointer;
+	font-size: 18px;
+}
+
+.card button:hover {
+	opacity: 0.7;
+}
+
+.description_container {
+	font-size: 20px;
+	margin: 30px 14px;
+}
+.header {
+	font-weight: 600;
+	font-size: 24px;
+}
+.btn {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
