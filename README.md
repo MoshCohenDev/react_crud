@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+### `my-weather`
+https://bright-sunflower-989d7d.netlify.app/
 
 In the project directory, you can run:
 
